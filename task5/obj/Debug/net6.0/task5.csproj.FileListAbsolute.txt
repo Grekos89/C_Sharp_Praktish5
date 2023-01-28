@@ -1,0 +1,15 @@
+D:\картинки учёба\Язык C#\практика5\task5\bin\Debug\net6.0\task5.exe
+D:\картинки учёба\Язык C#\практика5\task5\bin\Debug\net6.0\task5.deps.json
+D:\картинки учёба\Язык C#\практика5\task5\bin\Debug\net6.0\task5.runtimeconfig.json
+D:\картинки учёба\Язык C#\практика5\task5\bin\Debug\net6.0\task5.dll
+D:\картинки учёба\Язык C#\практика5\task5\bin\Debug\net6.0\task5.pdb
+D:\картинки учёба\Язык C#\практика5\task5\obj\Debug\net6.0\task5.csproj.AssemblyReference.cache
+D:\картинки учёба\Язык C#\практика5\task5\obj\Debug\net6.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\картинки учёба\Язык C#\практика5\task5\obj\Debug\net6.0\task5.AssemblyInfoInputs.cache
+D:\картинки учёба\Язык C#\практика5\task5\obj\Debug\net6.0\task5.AssemblyInfo.cs
+D:\картинки учёба\Язык C#\практика5\task5\obj\Debug\net6.0\task5.csproj.CoreCompileInputs.cache
+D:\картинки учёба\Язык C#\практика5\task5\obj\Debug\net6.0\task5.dll
+D:\картинки учёба\Язык C#\практика5\task5\obj\Debug\net6.0\refint\task5.dll
+D:\картинки учёба\Язык C#\практика5\task5\obj\Debug\net6.0\task5.pdb
+D:\картинки учёба\Язык C#\практика5\task5\obj\Debug\net6.0\task5.genruntimeconfig.cache
+D:\картинки учёба\Язык C#\практика5\task5\obj\Debug\net6.0\ref\task5.dll
